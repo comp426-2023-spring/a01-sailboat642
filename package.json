@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/comp426-2023-spring/a01-sailboat642#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
+    "http-server": "^14.1.1",
     "minimist": "^1.2.7"
   }
 }
